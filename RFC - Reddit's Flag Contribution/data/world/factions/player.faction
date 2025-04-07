@@ -1,0 +1,22 @@
+{
+	"id":"player",
+
+	"flags":[
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_steam_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_steam_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_dag_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_dag_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_avers_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_avers_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_msword_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_msword_crest.png"
+		},
+	],
+}
