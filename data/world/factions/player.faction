@@ -18,5 +18,29 @@
 			"logo":"graphics/rfc/factions/custom/rfc_msword_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_msword_crest.png"
 		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_c60_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_c60_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_diamond_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_diamond_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_baryon_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_baryon_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_dishonored2_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_dishonored2_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_owl_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_owl_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_journey_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_journey_crest.png"
+		},
 	],
 }
