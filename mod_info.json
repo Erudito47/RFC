@@ -4,7 +4,7 @@
 	"author":"Reddit Users",
 	"version":{
 		"major":1, 
-		"minor":0, 
+		"minor":1, 
 		"patch":2
 	},
 	"description":"Reddit's Flag Compilation - flags made by r/starsector reddit users.",
