@@ -1,0 +1,14 @@
+1.1.0
+-added 4 new flags
+-added ModThreadID
+-added direct download
+-adder changelog.txt for TriOS readability
+
+1.0.2
+-added 2 additional flags
+-adjusted game version for Version Checker testing
+
+1.0.1
+-added 4 flags (2 from u/Some-Detail9134, 4 from me)
+-prepared config files, using BUNS as reference.
+-submitted version file for TriOS Version Checker
