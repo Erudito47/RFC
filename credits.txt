@@ -1,5 +1,25 @@
 Flag authors:
+
 -u/Some-Detail9134
+	rfc_msword_flag.png
+	rfc_dag_flag.png
+
+-u/Onyx35678
+	rfc_octetelec_flag.png
+	rfc_redkeep_flag.png
+	rfc_blacksun_flag.png
+	rfc_ebcontingency_flag.png
+	rfc_entropyc_flag.png
+
 -u/New_Transition_7575
+	rfc_journey_flag.png
+	rfc_owl_flag.png
+	rfc_steam_flag.png
+	rfc_avers_flag.png
+	rfc_baryon_flag.png
+	rfc_c60_flag.png
+	rfc_dag_flag.png
+	rfc_diamond_flag.png
+	rfc_dishonored2_flag.png
 
 Thank you everyone for the contribution! You're the best!
