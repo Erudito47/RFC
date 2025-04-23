@@ -42,5 +42,25 @@
 			"logo":"graphics/rfc/factions/custom/rfc_journey_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_journey_crest.png"
 		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_blacksun_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_blacksun_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_ebcontingency_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_ebcontingency_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_entropyc_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_entropyc_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_octetelec_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_octetelec_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_redkeep_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_redkeep_crest.png"
+		},
 	],
 }
