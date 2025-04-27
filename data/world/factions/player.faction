@@ -39,6 +39,10 @@
 			"crest":"graphics/rfc/factions/custom/rfc_owl_crest.png"
 		},
 		{
+			"logo":"graphics/rfc/factions/custom/rfc_neowl_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_neowl_crest.png"
+		},
+		{
 			"logo":"graphics/rfc/factions/custom/rfc_journey_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_journey_crest.png"
 		},
@@ -61,6 +65,18 @@
 		{
 			"logo":"graphics/rfc/factions/custom/rfc_redkeep_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_redkeep_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_arztotzka_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_arztotzka_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_mechab_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_mechab_crest.png"
+		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_rarrt_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_rarrt_crest.png"
 		},
 	],
 }
