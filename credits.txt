@@ -21,5 +21,10 @@ Flag authors:
 	rfc_dag_flag.png
 	rfc_diamond_flag.png
 	rfc_dishonored2_flag.png
+	rfc_neowl_flag.png
+	rfc_rarrt_flag.png
+	rfc_arztotzka_flag.png 	(obviously minimal input on my part)
+	rfc_mechab_flag.png	(redrawn logo)
+
 
 Thank you everyone for the contribution! You're the best!
