@@ -5,7 +5,7 @@
 	"version":{
 		"major":1, 
 		"minor":1, 
-		"patch":2
+		"patch":3
 	},
 	"description":"Reddit's Flag Compilation - flags made by r/starsector reddit users.",
 	"gameVersion":"0.98a-RC Any",
