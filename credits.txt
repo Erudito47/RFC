@@ -1,5 +1,8 @@
 Flag authors:
 
+-u/Tinaxings
+	rfc_brose_flag.png
+
 -u/Some-Detail9134
 	rfc_msword_flag.png
 	rfc_dag_flag.png
