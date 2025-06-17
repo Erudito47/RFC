@@ -78,5 +78,9 @@
 			"logo":"graphics/rfc/factions/custom/rfc_rarrt_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_rarrt_crest.png"
 		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_brose_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_brose_crest.png"
+		},
 	],
 }
