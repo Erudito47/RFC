@@ -1,4 +1,4 @@
-  ![RFC_post](/Marketing/RFC_post.png))
+  ![RFC_post](/Marketing/RFC_post.png)
 
 RFC is a collaborative flag pack for Starsector, submitted through Reddit and updated in this mod.
 
@@ -16,5 +16,5 @@ Mod management:
 
 **Preview:**
 
-  ![RFC_NEW](/Marketing/RFC-NEW.png))
+  ![RFC_NEW](/Marketing/RFC-NEW.png)
   
