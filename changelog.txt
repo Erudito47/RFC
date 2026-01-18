@@ -1,3 +1,8 @@
+1.2.0
+-redid baryon_flag and mechab_flag (as I learned new tricks)
+-added flower_flag (made by my beloved)
+-updated README for with better graphical fidelity
+
 1.1.3
 -added new flag made by u/Tinaxings!
 
