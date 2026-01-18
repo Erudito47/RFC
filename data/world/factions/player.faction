@@ -82,5 +82,11 @@
 			"logo":"graphics/rfc/factions/custom/rfc_brose_flag.png",
 			"crest":"graphics/rfc/factions/custom/rfc_brose_crest.png"
 		},
+		{
+			"logo":"graphics/rfc/factions/custom/rfc_flower_flag.png",
+			"crest":"graphics/rfc/factions/custom/rfc_flower_crest.png"
+		},
+	],
 	],
 }
+
